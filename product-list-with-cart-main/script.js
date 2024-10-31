@@ -156,5 +156,3 @@ const changeQuantity = (product_id, type) => {
   addcartToMemory();
   addCartToHTML();
 };
-
-console.log("wisam");
